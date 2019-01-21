@@ -1,7 +1,7 @@
 # R-Shiny app for expertise on microtubule
 This is for expert detection of bundling on random images of cells between two time steps.
 
-This app is presented on the blog: <//statnmap.com/2016-08-02-rshiny-expert-image-comparison-app>
+This app is presented on the blog: <https://statnmap.com/2016-08-02-rshiny-expert-image-comparison-app>
 
 ## A Shiny web interface for expert image comparison
 

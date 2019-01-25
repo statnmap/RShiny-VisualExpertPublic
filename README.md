@@ -15,3 +15,10 @@ The expert image comparison was long: 40min for the small analysis and 3h for th
 You can try this Shinyapp here :
 https://statnmap.shinyapps.io/Visual_Expert/
 * Code may be available on request.
+
+# How to cite
+
+Louveaux, M., Rochette, S., Beauzamy, L., Boudaoud, A. and Hamant, O. (2016), The impact of mechanical compression on cortical microtubules in Arabidopsis: a quantitative pipeline. Plant J. Accepted Author Manuscript. [doi:10.1111/tpj.13290](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13290/full)
+
+Rochette, S. & Louveaux M. (2019, January 25). VisualExpert: A Shiny web interface for expert image comparison (Version v0.0.1). Zenodo. http://doi.org/10.5281/zenodo.2549677
+

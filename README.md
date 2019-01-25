@@ -1,5 +1,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2549677.svg)](https://doi.org/10.5281/zenodo.2549677)
 
+<img src="https://raw.githubusercontent.com/statnmap/RShiny-VisualExpertPublic/master/img/2016-08-02-rshiny-expert-image-comparison-app_1024-512.jpg" alt="Snapshot of the Shiny Application" width="80%" />
+<p class="caption">
+Snapshot of the Shiny Application
+</p>
+
 # R-Shiny app for expertise on microtubule
 This is for expert detection of bundling on random images of cells between two time steps.
 
@@ -16,11 +21,10 @@ The expert image comparison was long: 40min for the small analysis and 3h for th
 
 You can try this Shinyapp here :
 https://statnmap.shinyapps.io/Visual_Expert/
-* Code may be available on request.
 
 # How to cite
 
-Louveaux, M., Rochette, S., Beauzamy, L., Boudaoud, A. and Hamant, O. (2016), The impact of mechanical compression on cortical microtubules in Arabidopsis: a quantitative pipeline. Plant J. Accepted Author Manuscript. [doi:10.1111/tpj.13290](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13290/full)
+Louveaux, M., Rochette, S., Beauzamy, L., Boudaoud, A. and Hamant, O. (2016), The impact of mechanical compression on cortical microtubules in Arabidopsis: a quantitative pipeline. Plant J. Volume88, Issue2. 328-342. [doi:10.1111/tpj.13290](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13290/full)
 
 Rochette, S. & Louveaux M. (2019, January 25). VisualExpert: A Shiny web interface for expert image comparison (Version v0.0.1). Zenodo. http://doi.org/10.5281/zenodo.2549677
 
